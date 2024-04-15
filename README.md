@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Albarwuah
+- 👋 Hi, I’m Dany Sebastien C Louis
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...front end dev
 - 💞️ I’m looking to collaborate on ...any projects that could help me become a better programmer
